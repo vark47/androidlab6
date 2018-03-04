@@ -1,0 +1,8 @@
+Tides.MainActivity, Tides;md598079f3c76e1944064eaa3f5ba033a28.MainActivity
+Tides.MainActivity, Tides, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md598079f3c76e1944064eaa3f5ba033a28.MainActivity
+Tides.MainActivity;md598079f3c76e1944064eaa3f5ba033a28.MainActivity
+tides.MainActivity;md598079f3c76e1944064eaa3f5ba033a28.MainActivity
+Tides.TideAdapter, Tides;md598079f3c76e1944064eaa3f5ba033a28.TideAdapter
+Tides.TideAdapter, Tides, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md598079f3c76e1944064eaa3f5ba033a28.TideAdapter
+Tides.TideAdapter;md598079f3c76e1944064eaa3f5ba033a28.TideAdapter
+tides.TideAdapter;md598079f3c76e1944064eaa3f5ba033a28.TideAdapter
